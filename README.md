@@ -32,3 +32,6 @@ This Weather App allows users to compare the weather of two cities side by side.
    git clone https://github.com/yourusername/weather_app.git
    cd weather_app
 Add a .env file containing Django secret key and OpenWeatherMap API key in the weather_project folder
+
+## Demo
+Video : https://drive.google.com/file/d/1606keWkVnWTLUtJNBlFMsYk68nhCqfR1/view?usp=sharing
